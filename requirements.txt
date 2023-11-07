@@ -1,0 +1,17 @@
+asdl==0.1.5
+astor==0.8.1
+attrs==18.2.0
+jsonnet==0.16.0
+nltk==3.5
+networkx==2.4
+numpy==1.19.1
+timeout_decorator==0.4.1
+torch==2.1.0
+torchtext==0.16.0
+torchdata==0.7.0
+transformers==4.15.0
+tqdm==4.48.2
+pydantic==1.6.1
+pglast==1.12
+openpyxl==3.1.2
+stanza==1.6.1
