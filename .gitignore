@@ -1,0 +1,10 @@
+multispider
+.idea
+.DS_Store
+.venv
+.vscode
+*.egg-info
+dataset
+model
+__pycache__/
+*.py[cod]
