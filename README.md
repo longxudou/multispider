@@ -127,3 +127,8 @@ If you use our dataset or codebase, please cite our paper:
   url={https://ojs.aaai.org/index.php/AAAI/article/view/26499/26271}
 }
 ```
+
+## Copyright
+Except where stated explicitly otherwise, the copyright to the source code is licensed under the Creative Commons - Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/.
+
+Any commercial use (whether for the benefit of third parties or internally in production) requires an explicit license.
